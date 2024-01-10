@@ -38,6 +38,11 @@ python detecAi.py -f [folder_path] -mr [regex_patterns] -bs [batch_size] -o [out
 ```
 python detecAi.py -f ./images -mr "\\d{3}-\\d{2}-\\d{4}"  -bs 10 -o results.txt
 ```
+
+## Tutorial
+
+https://youtu.be/W-riZ-_lO0Q?si=2AHpVmdljpTsm4Tr
+
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and open a pull request with your changes or suggestions.
