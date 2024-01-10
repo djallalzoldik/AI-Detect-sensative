@@ -24,7 +24,7 @@ Usage
 Run the script with the following command:
 
 ```
-python script_name.py -f [folder_path] -mr [regex_patterns] -bs [batch_size] -o [output_file]
+python detecAi.py -f [folder_path] -mr [regex_patterns] -bs [batch_size] -o [output_file]
 
 ```
 
@@ -36,7 +36,7 @@ python script_name.py -f [folder_path] -mr [regex_patterns] -bs [batch_size] -o 
 ## Example
 
 ```
-python script_name.py -f ./images -mr "\\d{3}-\\d{2}-\\d{4}"  -bs 10 -o results.txt
+python detecAi.py -f ./images -mr "\\d{3}-\\d{2}-\\d{4}"  -bs 10 -o results.txt
 ```
 ## Contributing
 
